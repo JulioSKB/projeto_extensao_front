@@ -1,3 +1,0 @@
-- [x] Modify header div classes: remove md:flex-row, add md:items-start
-- [x] Modify nav classes: change mt-4 md:mt-0 to mt-4
-- [x] Add mounted hook to set menuAberto true in desktop
